@@ -1,0 +1,453 @@
+
+[
+    {
+        "image": "input/1.png",
+        "results": [
+            {
+                "resolution": "2979x4469",
+                "nOriginalColors": 245,
+                "originalSize": 1485.1806640625,
+                "k": 2,
+                "transformedSize": 61.384765625,
+                "sizeDiff": 1423.7958984375,
+                "isTransformedBigger": false,
+                "outputPath": "output/1/out_k_2.png"
+            },
+            {
+                "resolution": "2979x4469",
+                "nOriginalColors": 245,
+                "originalSize": 1485.1806640625,
+                "k": 8,
+                "transformedSize": 125.4482421875,
+                "sizeDiff": 1359.732421875,
+                "isTransformedBigger": false,
+                "outputPath": "output/1/out_k_8.png"
+            },
+            {
+                "resolution": "2979x4469",
+                "nOriginalColors": 245,
+                "originalSize": 1485.1806640625,
+                "k": 16,
+                "transformedSize": 236.6142578125,
+                "sizeDiff": 1248.56640625,
+                "isTransformedBigger": false,
+                "outputPath": "output/1/out_k_16.png"
+            },
+            {
+                "resolution": "2979x4469",
+                "nOriginalColors": 245,
+                "originalSize": 1485.1806640625,
+                "k": 32,
+                "transformedSize": 403.9501953125,
+                "sizeDiff": 1081.23046875,
+                "isTransformedBigger": false,
+                "outputPath": "output/1/out_k_32.png"
+            },
+            {
+                "resolution": "2979x4469",
+                "nOriginalColors": 245,
+                "originalSize": 1485.1806640625,
+                "k": 64,
+                "transformedSize": 672.384765625,
+                "sizeDiff": 812.7958984375,
+                "isTransformedBigger": false,
+                "outputPath": "output/1/out_k_64.png"
+            },
+            {
+                "resolution": "2979x4469",
+                "nOriginalColors": 245,
+                "originalSize": 1485.1806640625,
+                "k": 128,
+                "transformedSize": 1062.5380859375,
+                "sizeDiff": 422.642578125,
+                "isTransformedBigger": false,
+                "outputPath": "output/1/out_k_128.png"
+            },
+            {
+                "resolution": "2979x4469",
+                "nOriginalColors": 245,
+                "originalSize": 1485.1806640625,
+                "k": 256,
+                "transformedSize": 1490.16796875,
+                "sizeDiff": -4.9873046875,
+                "isTransformedBigger": true,
+                "outputPath": "output/1/out_k_256.png"
+            }
+        ]
+    },
+    {
+        "image": "input/2.png",
+        "results": [
+            {
+                "resolution": "3888x5832",
+                "nOriginalColors": 256,
+                "originalSize": 13585.37109375,
+                "k": 2,
+                "transformedSize": 778.33984375,
+                "sizeDiff": 12807.03125,
+                "isTransformedBigger": false,
+                "outputPath": "output/2/out_k_2.png"
+            },
+            {
+                "resolution": "3888x5832",
+                "nOriginalColors": 256,
+                "originalSize": 13585.37109375,
+                "k": 8,
+                "transformedSize": 1850.2587890625,
+                "sizeDiff": 11735.1123046875,
+                "isTransformedBigger": false,
+                "outputPath": "output/2/out_k_8.png"
+            },
+            {
+                "resolution": "3888x5832",
+                "nOriginalColors": 256,
+                "originalSize": 13585.37109375,
+                "k": 16,
+                "transformedSize": 3548.552734375,
+                "sizeDiff": 10036.818359375,
+                "isTransformedBigger": false,
+                "outputPath": "output/2/out_k_16.png"
+            },
+            {
+                "resolution": "3888x5832",
+                "nOriginalColors": 256,
+                "originalSize": 13585.37109375,
+                "k": 32,
+                "transformedSize": 4933.8896484375,
+                "sizeDiff": 8651.4814453125,
+                "isTransformedBigger": false,
+                "outputPath": "output/2/out_k_32.png"
+            },
+            {
+                "resolution": "3888x5832",
+                "nOriginalColors": 256,
+                "originalSize": 13585.37109375,
+                "k": 64,
+                "transformedSize": 7027.0537109375,
+                "sizeDiff": 6558.3173828125,
+                "isTransformedBigger": false,
+                "outputPath": "output/2/out_k_64.png"
+            },
+            {
+                "resolution": "3888x5832",
+                "nOriginalColors": 256,
+                "originalSize": 13585.37109375,
+                "k": 128,
+                "transformedSize": 8533.98046875,
+                "sizeDiff": 5051.390625,
+                "isTransformedBigger": false,
+                "outputPath": "output/2/out_k_128.png"
+            },
+            {
+                "resolution": "3888x5832",
+                "nOriginalColors": 256,
+                "originalSize": 13585.37109375,
+                "k": 256,
+                "transformedSize": 10629.7236328125,
+                "sizeDiff": 2955.6474609375,
+                "isTransformedBigger": false,
+                "outputPath": "output/2/out_k_256.png"
+            }
+        ]
+    },
+    {
+        "image": "input/3.png",
+        "results": [
+            {
+                "resolution": "2242x3992",
+                "nOriginalColors": 256,
+                "originalSize": 6956.31640625,
+                "k": 2,
+                "transformedSize": 490.056640625,
+                "sizeDiff": 6466.259765625,
+                "isTransformedBigger": false,
+                "outputPath": "output/3/out_k_2.png"
+            },
+            {
+                "resolution": "2242x3992",
+                "nOriginalColors": 256,
+                "originalSize": 6956.31640625,
+                "k": 8,
+                "transformedSize": 2595.603515625,
+                "sizeDiff": 4360.712890625,
+                "isTransformedBigger": false,
+                "outputPath": "output/3/out_k_8.png"
+            },
+            {
+                "resolution": "2242x3992",
+                "nOriginalColors": 256,
+                "originalSize": 6956.31640625,
+                "k": 16,
+                "transformedSize": 4063.9697265625,
+                "sizeDiff": 2892.3466796875,
+                "isTransformedBigger": false,
+                "outputPath": "output/3/out_k_16.png"
+            },
+            {
+                "resolution": "2242x3992",
+                "nOriginalColors": 256,
+                "originalSize": 6956.31640625,
+                "k": 32,
+                "transformedSize": 5309.3505859375,
+                "sizeDiff": 1646.9658203125,
+                "isTransformedBigger": false,
+                "outputPath": "output/3/out_k_32.png"
+            },
+            {
+                "resolution": "2242x3992",
+                "nOriginalColors": 256,
+                "originalSize": 6956.31640625,
+                "k": 64,
+                "transformedSize": 6768.30859375,
+                "sizeDiff": 188.0078125,
+                "isTransformedBigger": false,
+                "outputPath": "output/3/out_k_64.png"
+            },
+            {
+                "resolution": "2242x3992",
+                "nOriginalColors": 256,
+                "originalSize": 6956.31640625,
+                "k": 128,
+                "transformedSize": 7774.521484375,
+                "sizeDiff": -818.205078125,
+                "isTransformedBigger": true,
+                "outputPath": "output/3/out_k_128.png"
+            },
+            {
+                "resolution": "2242x3992",
+                "nOriginalColors": 256,
+                "originalSize": 6956.31640625,
+                "k": 256,
+                "transformedSize": 8375.2109375,
+                "sizeDiff": -1418.89453125,
+                "isTransformedBigger": true,
+                "outputPath": "output/3/out_k_256.png"
+            }
+        ]
+    },
+    {
+        "image": "input/4.png",
+        "results": [
+            {
+                "resolution": "2457x4368",
+                "nOriginalColors": 256,
+                "originalSize": 7266.6669921875,
+                "k": 2,
+                "transformedSize": 71.880859375,
+                "sizeDiff": 7194.7861328125,
+                "isTransformedBigger": false,
+                "outputPath": "output/4/out_k_2.png"
+            },
+            {
+                "resolution": "2457x4368",
+                "nOriginalColors": 256,
+                "originalSize": 7266.6669921875,
+                "k": 8,
+                "transformedSize": 1970.6103515625,
+                "sizeDiff": 5296.056640625,
+                "isTransformedBigger": false,
+                "outputPath": "output/4/out_k_8.png"
+            },
+            {
+                "resolution": "2457x4368",
+                "nOriginalColors": 256,
+                "originalSize": 7266.6669921875,
+                "k": 16,
+                "transformedSize": 2719.87890625,
+                "sizeDiff": 4546.7880859375,
+                "isTransformedBigger": false,
+                "outputPath": "output/4/out_k_16.png"
+            },
+            {
+                "resolution": "2457x4368",
+                "nOriginalColors": 256,
+                "originalSize": 7266.6669921875,
+                "k": 32,
+                "transformedSize": 3760.4052734375,
+                "sizeDiff": 3506.26171875,
+                "isTransformedBigger": false,
+                "outputPath": "output/4/out_k_32.png"
+            },
+            {
+                "resolution": "2457x4368",
+                "nOriginalColors": 256,
+                "originalSize": 7266.6669921875,
+                "k": 64,
+                "transformedSize": 5117.1513671875,
+                "sizeDiff": 2149.515625,
+                "isTransformedBigger": false,
+                "outputPath": "output/4/out_k_64.png"
+            },
+            {
+                "resolution": "2457x4368",
+                "nOriginalColors": 256,
+                "originalSize": 7266.6669921875,
+                "k": 128,
+                "transformedSize": 6214.9345703125,
+                "sizeDiff": 1051.732421875,
+                "isTransformedBigger": false,
+                "outputPath": "output/4/out_k_128.png"
+            },
+            {
+                "resolution": "2457x4368",
+                "nOriginalColors": 256,
+                "originalSize": 7266.6669921875,
+                "k": 256,
+                "transformedSize": 7087.6123046875,
+                "sizeDiff": 179.0546875,
+                "isTransformedBigger": false,
+                "outputPath": "output/4/out_k_256.png"
+            }
+        ]
+    },
+    {
+        "image": "input/5.png",
+        "results": [
+            {
+                "resolution": "3919x5938",
+                "nOriginalColors": 256,
+                "originalSize": 6133.390625,
+                "k": 2,
+                "transformedSize": 234.5126953125,
+                "sizeDiff": 5898.8779296875,
+                "isTransformedBigger": false,
+                "outputPath": "output/5/out_k_2.png"
+            },
+            {
+                "resolution": "3919x5938",
+                "nOriginalColors": 256,
+                "originalSize": 6133.390625,
+                "k": 8,
+                "transformedSize": 633.1201171875,
+                "sizeDiff": 5500.2705078125,
+                "isTransformedBigger": false,
+                "outputPath": "output/5/out_k_8.png"
+            },
+            {
+                "resolution": "3919x5938",
+                "nOriginalColors": 256,
+                "originalSize": 6133.390625,
+                "k": 16,
+                "transformedSize": 1171.025390625,
+                "sizeDiff": 4962.365234375,
+                "isTransformedBigger": false,
+                "outputPath": "output/5/out_k_16.png"
+            },
+            {
+                "resolution": "3919x5938",
+                "nOriginalColors": 256,
+                "originalSize": 6133.390625,
+                "k": 32,
+                "transformedSize": 1609.3115234375,
+                "sizeDiff": 4524.0791015625,
+                "isTransformedBigger": false,
+                "outputPath": "output/5/out_k_32.png"
+            },
+            {
+                "resolution": "3919x5938",
+                "nOriginalColors": 256,
+                "originalSize": 6133.390625,
+                "k": 64,
+                "transformedSize": 2111.0654296875,
+                "sizeDiff": 4022.3251953125,
+                "isTransformedBigger": false,
+                "outputPath": "output/5/out_k_64.png"
+            },
+            {
+                "resolution": "3919x5938",
+                "nOriginalColors": 256,
+                "originalSize": 6133.390625,
+                "k": 128,
+                "transformedSize": 2709.2509765625,
+                "sizeDiff": 3424.1396484375,
+                "isTransformedBigger": false,
+                "outputPath": "output/5/out_k_128.png"
+            },
+            {
+                "resolution": "3919x5938",
+                "nOriginalColors": 256,
+                "originalSize": 6133.390625,
+                "k": 256,
+                "transformedSize": 3425.5380859375,
+                "sizeDiff": 2707.8525390625,
+                "isTransformedBigger": false,
+                "outputPath": "output/5/out_k_256.png"
+            }
+        ]
+    },
+    {
+        "image": "input/6.png",
+        "results": [
+            {
+                "resolution": "2963x4608",
+                "nOriginalColors": 256,
+                "originalSize": 11752.76171875,
+                "k": 2,
+                "transformedSize": 237.232421875,
+                "sizeDiff": 11515.529296875,
+                "isTransformedBigger": false,
+                "outputPath": "output/6/out_k_2.png"
+            },
+            {
+                "resolution": "2963x4608",
+                "nOriginalColors": 256,
+                "originalSize": 11752.76171875,
+                "k": 8,
+                "transformedSize": 1549.0751953125,
+                "sizeDiff": 10203.6865234375,
+                "isTransformedBigger": false,
+                "outputPath": "output/6/out_k_8.png"
+            },
+            {
+                "resolution": "2963x4608",
+                "nOriginalColors": 256,
+                "originalSize": 11752.76171875,
+                "k": 16,
+                "transformedSize": 3944.775390625,
+                "sizeDiff": 7807.986328125,
+                "isTransformedBigger": false,
+                "outputPath": "output/6/out_k_16.png"
+            },
+            {
+                "resolution": "2963x4608",
+                "nOriginalColors": 256,
+                "originalSize": 11752.76171875,
+                "k": 32,
+                "transformedSize": 7104.5498046875,
+                "sizeDiff": 4648.2119140625,
+                "isTransformedBigger": false,
+                "outputPath": "output/6/out_k_32.png"
+            },
+            {
+                "resolution": "2963x4608",
+                "nOriginalColors": 256,
+                "originalSize": 11752.76171875,
+                "k": 64,
+                "transformedSize": 10391.99609375,
+                "sizeDiff": 1360.765625,
+                "isTransformedBigger": false,
+                "outputPath": "output/6/out_k_64.png"
+            },
+            {
+                "resolution": "2963x4608",
+                "nOriginalColors": 256,
+                "originalSize": 11752.76171875,
+                "k": 128,
+                "transformedSize": 13099.630859375,
+                "sizeDiff": -1346.869140625,
+                "isTransformedBigger": true,
+                "outputPath": "output/6/out_k_128.png"
+            },
+            {
+                "resolution": "2963x4608",
+                "nOriginalColors": 256,
+                "originalSize": 11752.76171875,
+                "k": 256,
+                "transformedSize": 14672.275390625,
+                "sizeDiff": -2919.513671875,
+                "isTransformedBigger": true,
+                "outputPath": "output/6/out_k_256.png"
+            }
+        ]
+    }
+]
